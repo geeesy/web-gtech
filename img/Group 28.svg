@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Group_28" data-name="Group 28" transform="translate(8668 1653)">
+    <g id="Rectangle_33" data-name="Rectangle 33" transform="translate(-8668 -1653)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="64" height="64" stroke="none"/>
+      <rect x="0.5" y="0.5" width="63" height="63" fill="none"/>
+    </g>
+    <g id="Icon_ionic-logo-designernews" data-name="Icon ionic-logo-designernews" transform="translate(-8666.413 -1647.866)">
+      <path id="Path_47" data-name="Path 47" d="M23.932,12.911,15.961,6.75l8,12.849Z" transform="translate(10.806)" fill="#989898"/>
+      <path id="Path_48" data-name="Path 48" d="M39.591,6.75V27.244H35.015l-7.946-12.4.214,12.4H22.241V13.791l-4.69-3.684c.126.151.251.3.365.465A10.521,10.521,0,0,1,19.8,16.921c0,6.186-3.847,10.322-9.668,10.322H2.25v.05l25.1,19.689H58.576V21.6Z" fill="#989898"/>
+      <path id="Path_49" data-name="Path 49" d="M12.4,15.022c0-3.646-1.785-5.67-4.991-5.67H4.992v11.19H7.381C10.65,20.541,12.4,18.605,12.4,15.022Z" transform="translate(2.161 2.05)" fill="#989898"/>
+    </g>
+  </g>
+</svg>

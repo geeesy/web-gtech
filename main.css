@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@200;400&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Noto Sans Thai', sans-serif;
+    color: #FFFFFF;
+}
+body{
+    background: #101010;
+}
+ul {
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+nav{
+    padding: 2rem 0 4rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sub-title{
+    font-size: 16px;
+    color: #9F9F9F;
+    text-align: center;
+}
+.menu{
+    display: flex;
+    gap: 2rem;
+}
+.menu a{
+    color:#101010;
+}
+.container{
+    max-width: 1256px;
+    margin: 0 auto;
+}
+.header-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 32px;
+}
+.img-start{
+    transform: perspective(121px) rotateY(358deg) scale(0.95);
+}
+.img-end{
+    transform: perspective(121px) rotateY(2deg) scale(0.95);
+}
+.nav-btn{
+    width: 136px;
+    height: 40px;
+    background: #00000000 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-image{
+    display: flex;
+    gap: 16px;
+}
+.text-hl{
+    color:#2EB8C5;
+}
+.get-btn{
+    width: 136px;
+    height: 40px;
+    background: transparent 
+    linear-gradient(90deg, #31BFC7 0%, #0A81BB 100%) 0% 0% no-repeat;
+    border-radius: 20px;
+    
+}
+.header-btn{
+    margin: 4rem;
+    gap: 1rem;
+    display: flex;
+    align-items: center;
+}
+.content-layout{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gap-1{
+    gap: 0.5rem;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.header-image{
+    padding-bottom: 2rem;
+}
+.partner{
+    padding: 2rem;
+}
+.partner-info{
+    display: flex;
+    gap: 2rem;
+    padding-bottom: 2rem;
+}
+.partner-logo{
+    column-gap: 2rem;
+    display: flex;
+}
+.partner-img{
+    display: flex;
+    gap: 1rem;
+}
+.about{
+    background:#183638;
+    width: auto;
+    height: 284px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about h1{
+    background:#183638;
+    color: #FFF;
+}
+.traget-info{
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+    padding: 2rem 0;
+}
+.traget-descri{
+    display: grid;
+    gap: 2rem;
+}
+hr.new4 {
+    border: 0.5px solid red;
+  }
+.feature{
+    padding: 4rem 0 4rem 0;
+    background-image: url(./img/bg-feature.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.card-info{
+    width: 620px;
+    height: 276px;
+    background: #1F1F1F;
+    border-radius: 25px;
+    padding:2rem;
+}
+.feature-card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    grid-gap: 1rem;
+}
+.footer-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 0;
+}
+.footer{
+    padding: 2rem 0;
+}
+.footer h2{
+    color:#9F9F9F;
+}
+.footer p{
+    color:#9F9F9F;
+}
+.cont-facebook{
+    width: 50px;
+    height: auto;
+    background: url("./img/img3.png") no-repeat;
+}
